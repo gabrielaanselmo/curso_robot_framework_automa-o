@@ -7,9 +7,11 @@ Projeto utilizando Robot para realizar testes automatizados em uma página onde 
 
 
 #Organização com Page Objects model (POM)
-![pom](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/6f88824f-da7f-47c8-b7af-a6d9cbb5d6a4)
+![pom](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/6f0bb266-d383-456a-ac45-5d074611efb9)
 
 #Utilização da FakerLibrary para criar massa de dados dinâmica e preencher o formulário e da SeleniumLibray para interagir com aplicativos da web.;
-![library](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/dd3d3fd4-2a5f-4890-90d4-81d222a56742)
+![library](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/5a954afa-9450-49d5-b334-2acc68ebd3b7)
 
 #Utilização da técnica BDD (Behavior-Driven Development)
+![bdd](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/44b29b72-ae97-4b91-b7ec-129e6436876c)
+![bdd-](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/42e9f099-5c42-4eb6-96aa-e555e14be089)

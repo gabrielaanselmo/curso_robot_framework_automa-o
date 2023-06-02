@@ -15,3 +15,10 @@ Projeto utilizando Robot para realizar testes automatizados em uma página onde 
 #Utilização da técnica BDD (Behavior-Driven Development)
 ![bdd](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/44b29b72-ae97-4b91-b7ec-129e6436876c)
 ![bdd-](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/42e9f099-5c42-4eb6-96aa-e555e14be089)
+
+#Criação de Variáveis e Lista
+![variables](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/0377b271-86bc-4e93-a8a8-dcd61553526f)
+
+#Utilização de Estrutura de Repetições
+![image](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/774e2d01-7c00-4542-9a93-a1bb75f5e89c)
+

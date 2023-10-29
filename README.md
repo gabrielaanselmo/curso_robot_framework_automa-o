@@ -2,22 +2,21 @@
 
 > Status do projeto: Finalizado.
 
-## 📋 Sobre o Projeto
-Este projeto visa utilizar o framework Robot para implementar testes automatizados em uma página web que contém um formulário de cadastro para profissionais interessados em ingressar em um time. O objetivo é automatizar o processo de teste, garantindo a eficiência e a qualidade do cadastro realizado no formulário
+## 📋 Descrição do Projeto
+Desenvolvido individualmente, este projeto tem como objetivo a implementação de testes automatizados em uma aplicação web que possui um formulário de cadastro destinado a profissionais interessados em fazer parte de uma equipe. Utilizando o Robot Framework, busquei garantir a eficácia e a integridade do processo de cadastro, promovendo uma melhoria contínua na qualidade.
 
-## 👾 Organização com Page Objects model (POM)
-![pom](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/6f0bb266-d383-456a-ac45-5d074611efb9)
+### 🛠 Estruturação com o Modelo Page Objects (POM)
+Optei pelo modelo Page Objects (POM) para organizar o código, o que facilita a manutenção e proporciona uma melhor legibilidade dos testes automatizados.
 
-## 👾 Utilização da FakerLibrary para criar massa de dados dinâmica e preencher o formulário e da SeleniumLibray para interagir com aplicativos da web.;
-![library](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/5a954afa-9450-49d5-b334-2acc68ebd3b7)
+### 📊 Geração de Dados Dinâmicos e Interação com a Web
+Para preencher o formulário, utilizei a biblioteca FakerLibrary, criando assim uma massa de dados dinâmica. A interação com os elementos da página web foi realizada por meio da SeleniumLibrary.
 
-## 👾 Utilização da técnica BDD (Behavior-Driven Development)
-![bdd](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/44b29b72-ae97-4b91-b7ec-129e6436876c)
-![bdd-](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/42e9f099-5c42-4eb6-96aa-e555e14be089)
+### 🤖 Aplicação do BDD (Behavior-Driven Development)
+Implementei a técnica de BDD para assegurar que todos os requisitos do projeto fossem atendidos, facilitando a comunicação e o entendimento do que era esperado em cada etapa dos testes.
 
-## 👾 Criação de Variáveis e Lista
-![variables](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/0377b271-86bc-4e93-a8a8-dcd61553526f)
+### 📝  Variáveis e Listas
+Realizei a criação de variáveis e listas para tornar o código mais flexível e otimizar o processo de teste.
 
-## 👾 Utilização de Estrutura de Repetições
-![image](https://github.com/gabrielaanselmo/curso_robot_framework_automa-o/assets/112910372/774e2d01-7c00-4542-9a93-a1bb75f5e89c)
+### 🔁 Estruturas de Repetição
+Utilizei estruturas de repetição para garantir a execução completa dos testes, assegurando que todas as verificações necessárias fossem realizadas.
 
